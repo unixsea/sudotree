@@ -8,4 +8,4 @@ client.events = new Collection();
 ["command_handler", "event_handler"].forEach((handler) => {
   require(`./handlers/${handler}`)(client, Discord);
 });
-client.login("ID");
+client.login("IDgith");
