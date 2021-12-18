@@ -2,7 +2,7 @@
 Hackathon for top.gg
 
 
-#COMMANDS
+# COMMANDS
 
 `sudo help` List of commands
 
