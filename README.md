@@ -2,7 +2,8 @@
 Hackathon for top.gg
 
 
-COMMANDS
+#COMMANDS
+
 `sudo help` List of commands
 
 `sudo all` Sends all of the Winter rices avaible
@@ -16,7 +17,6 @@ COMMANDS
 `sudo bspwm` Sends all of the Winter bspwm rices avaible
 
 `sudo openbox` Sends all of the Winter openbox rices avaible
-
 
 
 **Secret commands <3 and don't check the source code to find it >:(**
