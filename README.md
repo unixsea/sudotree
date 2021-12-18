@@ -14,3 +14,8 @@ COMMANDS
 `sudo i3` Sends all of the Winter i3 rices avaible
 
 `sudo bspwm` Sends all of the Winter bspwm rices avaible
+
+`sudo openbox` Sends all of the Winter openbox rices avaible
+
+\\ Secret commands <3 and don't check the source code to find it >:(
+
